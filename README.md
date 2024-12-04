@@ -1,3 +1,3 @@
-# Study-Material
+# Trick_AI
 
-Some useful studing documents 
+Useful trick and experience in AI area.
